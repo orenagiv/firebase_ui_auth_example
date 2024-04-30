@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "186476227140",
+    "project_id": "fb-ui-auth-example",
+    "storage_bucket": "fb-ui-auth-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186476227140:android:f761f01680bdedc6d3ea11",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186476227140-vtgnt8j4b7vglleucnk6adomi8vvtu05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6Bd6hGs5m44AChRgcupSi-gQTfGezoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186476227140-vtgnt8j4b7vglleucnk6adomi8vvtu05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186476227140-5p2o9n9f9vii40p1p7ckeslt7uev46i0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
